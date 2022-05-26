@@ -35,7 +35,7 @@ This is my solution for this challenge.
 ### Links
 
 - Solution URL: (https://github.com/troy03/3-column-layout)
-- Live Site URL: (http://127.0.0.1:5500/index.html)
+- Live Site URL: (https://troy03.github.io/3-column-layout/)
 
 ## My process
 
