@@ -59,7 +59,7 @@ main{
 } 
 
 section {
-    padding: 3em;
+    padding: 2.5em;
 }
 
 .first {
@@ -94,13 +94,13 @@ section {
     
 }
 
-.attribution { 
+footer { 
     font-size: 1rem; 
     text-align: center; 
     margin-top: 10em;
     color: #16003B;
 }
-.attribution a { 
+footer a { 
     color: hsl(228, 45%, 44%); 
     text-decoration: none;
 }
