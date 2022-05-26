@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #fff;
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(0, 0%, 95%);
+
+    
+}
+
+h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-top: 0.8em;
+    color: hsl(0, 0%, 95%);
+}
+
+p{
+    font-family: 'Lexend Deca', sans-serif;
+    margin-top: 1.7em;
+    line-height: 1.5;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+button {
+    font-family: 'Lexend Deca', sans-serif;
+    padding: 1.2em 2.7em;
+    border-radius: 21px;
+    margin-top: 6.4em;
+    border: none;
+    background-color: hsl(0, 0%, 95%);
+}
+
+button:hover {
+    color: #fff;
+    background-color: none;
+}
+
+
+main{
+    max-width: 920px;
+    min-height: 500px;
+    margin: 10.6em auto 0 15.5em;
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+    border-radius: 5px;
+} 
+
+section {
+    padding: 3em;
+}
+
+.first {
+    background-color: hsl(31, 77%, 52%); 
+}
+.first button{
+    color: hsl(31, 77%, 52%);
+
+}
+
+.second {
+    background-color: hsl(184, 100%, 22%);
+}
+
+.second button {
+    color: hsl(184, 100%, 22%)
+}
+
+.third {
+    background-color:  hsl(179, 100%, 13%);
+}
+
+.third button{
+    color: hsl(179, 100%, 13%) ;
+}
+
+.first button:hover, .second button:hover,
+.third button:hover {
+    color: #fff;
+    background-color: transparent;
+    border: 2px solid #fff;
+    
+}
+
+.attribution { 
+    font-size: 1rem; 
+    text-align: center; 
+    margin-top: 10em;
+    color: #16003B;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+    text-decoration: none;
+}
+
+@media (min-width: 480px) and (max-width: 768px) {
+
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 6em;
+        padding: 2em;
+    }
+
+    main{
+        width: 660px;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+    }
+
+    
+  }
