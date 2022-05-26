@@ -16,11 +16,10 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
   This challenge about making a 3 column layout with different background-colors
+  
 ### The challenge
 
 Users should be able to:
@@ -30,9 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/mysolution.png)
+![My Solution](./design/mysolution.png)
 This is my solution for this challenge.
-
 
 ### Links
 
@@ -48,8 +46,6 @@ This is my solution for this challenge.
 - CSS custom properties
 - Flexbox
 
-
-
 ### What I learned
 
 When I first commit this solution some say need to use mobile-approach style so for the next challenge I'm going to learn about this. I use stackoverflow to find a solution why border-radius is not working and it's need to use a property overflow:hidden.Lastly, Gladly realize how important to use semantic layout.
@@ -58,21 +54,15 @@ When I first commit this solution some say need to use mobile-approach style so 
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-
-
 ### Useful resources
 
 - [Best (and worst!) ways to center WITHOUT flex or grid](https://www.youtube.com/watch?v=87YMCtsBoCM) - This helped me for this challenge. I really liked this pattern and will use it going forward.
 - [Reason for why overflow happen](https://stackoverflow.com/questions/10995294/border-radius-not-working) - This is an amazing site which helped me finally understand about overflow. 
 
-
-
 ## Author
 
 - Github- [Troy Jose B. Hipona](https://github.com/)
 - Frontend Mentor - [@troy03](https://www.frontendmentor.io/profile/troy03)
-
-
 
 ## Acknowledgments
  
